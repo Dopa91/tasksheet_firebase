@@ -9,7 +9,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.tasksheet_firebase"
+    namespace = "com.andreas.tasksheetfirebase"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
